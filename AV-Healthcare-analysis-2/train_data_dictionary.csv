@@ -1,5 +1,5 @@
 Column,Description
-case_id,Case_ID registered in Hospital
+case_id, registered in Hospital
 Hospital_code,Unique code for the Hospital
 Hospital_type_code,Unique code for the type of Hospital
 City_Code_Hospital,City Code of the Hospital
